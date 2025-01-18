@@ -1,2 +1,2 @@
 # Live Preview
-<hr/>
+Click below to view the live preview👇:
