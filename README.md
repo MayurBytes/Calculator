@@ -1,4 +1,5 @@
-# 👀Live Preview
-Click below to view the live preview👇:
-https://mayurbytes.github.io/Calculator/
-#Video
+#👀 Live Preview
+Click below to explore the live preview👇:
+(https://mayurbytes.github.io/Calculator/)
+
+📽️ Video Demonstration
